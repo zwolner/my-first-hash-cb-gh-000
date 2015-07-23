@@ -24,6 +24,7 @@
       * `"whale bone corsets" => 5`
       * `"porcelain vases" => 2`
       * `"oil paintings" => 3`
+* **Note:** Build this hash yourself! Don't just copy and paste from the following methods. :)
 
 ### Challenge III: Retrieving Data 
 

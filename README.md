@@ -38,7 +38,7 @@ hash = {"key1" => "value1"}
 We can return the value of `"key1"` like this: 
 
 ```ruby
-hash["key1]
+hash["key1"]
 ```
 ### Challenge IV: Adding Data
 

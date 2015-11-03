@@ -52,7 +52,7 @@ hash["key2"] = "value2"
 # returns "value2"
 
 puts hash
-# => {"key1" => "value1", "key2" => "value2"}
+# > {"key1" => "value1", "key2" => "value2"}
 ```
 
 

@@ -42,7 +42,7 @@ hash["key1"]
 
 * In the `adding` method, we've once again given you the `shipping_manifest` hash. Use the `[]=` method to add the following key/value pair to the hash: 
   * `"pearl necklace" => 1`
-  * This method *must return the newly-added-to `shipping_hash`*. 
+  * This method *must return the newly-added-to `shipping_manifest`*. 
   * Remember that the return value of using the `[]=` method is *the value of the key/value pair you added*. We need our `adding` method to return the `shipping_manifest`. 
   * Here's a refresher on the `[]=` method: 
 

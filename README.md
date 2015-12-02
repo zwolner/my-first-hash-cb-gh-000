@@ -58,3 +58,5 @@ puts hash
 
 
 
+
+<a href='https://learn.co/lessons/my-first-hash' data-visibility='hidden'>View this lesson on Learn.co</a>
